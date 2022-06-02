@@ -29,7 +29,7 @@ das lives sejam as mais ranqueadas ou seja, as dúvidas que são mais frequentes
 
 <br />
 
-[![Letmeask_video](https://github.com/EddyPBR/letmeask/blob/main/.github/assets/letmeask-capa.jpg)](https://youtu.be/a7P--fnjtzE)
+[![Letmeask_video]()]
 
 <br />
 
