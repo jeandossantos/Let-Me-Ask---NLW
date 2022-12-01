@@ -1,7 +1,7 @@
 <br />
 <br />
 <h1 align="center">
-  <img alt="letmeask" src=".github/assets/logo.svg" width="420px" /> 
+  <img alt="letmeask" src="https://github.com/jeandossantos/assets/blob/master/letmeask/logo.svg" width="420px" /> 
   <br />
   <br />
   NextJS | Firebase | Typescript
@@ -9,7 +9,6 @@
 
 <p align="center">
   <img alt="Rocketseat" src="https://img.shields.io/badge/Created%20by%3A-Rocketseat-%236D5CCD" />
-  <img alt="EddyPBR" src="https://img.shields.io/badge/Developed%20by%3A-EddyPBR-%23DD3B3F" />
   <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-%2398C611" />
   <img alt="Typescript" src="https://img.shields.io/badge/Main%20lenguage-Typescript-%232F74C0" /> <br />
 </p> 
@@ -26,10 +25,6 @@ responder as perguntas, afinal, são clientes/possívels clientes não é mesmo?
 Sabendo dessa necessidade, a #Rocketseat no seu evento #NextLevelWeek teve a brilhante idéaia de elaborar 
 um projeto que consiste no ranqueamento de perguntas para que as perguntas prioritárias dos aprensetadores
 das lives sejam as mais ranqueadas ou seja, as dúvidas que são mais frequentes pela comunidade.
-
-<br />
-
-[![Letmeask_video]()]
 
 <br />
 
