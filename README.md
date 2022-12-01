@@ -31,7 +31,6 @@ das lives sejam as mais ranqueadas ou seja, as dúvidas que são mais frequentes
 ## :bulb: Conteúdos abordados
 <br />
 
-- NextJS
 - React
 - Sass
 - Context API's
@@ -44,7 +43,7 @@ das lives sejam as mais ranqueadas ou seja, as dúvidas que são mais frequentes
 
 ## :memo: License
 
-Este projeto esta sob a [MIT license](LICENSE) para mais detalhes.
+Este projeto esta sob a [MIT license](https://github.com/jeandossantos/Let-Me-Ask---NLW/blob/master/License) para mais detalhes.
 <br />
 <br />
 
